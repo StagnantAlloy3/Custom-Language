@@ -1,0 +1,5 @@
+﻿  Compiler.cpp
+C:\Users\jcoln\OneDrive\Documents\School\System Software and Design\Programs\Project 1\Project 1\Project 1\Compiler.cpp(659,45): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\jcoln\OneDrive\Documents\School\System Software and Design\Programs\Project 1\Project 1\Project 1\Compiler.cpp(663,40): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\jcoln\OneDrive\Documents\School\System Software and Design\Programs\Project 1\Project 1\Project 1\Compiler.cpp(783,28): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  Project 1.vcxproj -> C:\Users\jcoln\OneDrive\Documents\School\System Software and Design\Programs\Project 1\Project 1\x64\Debug\Project 1.exe
